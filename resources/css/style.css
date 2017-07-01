@@ -4,21 +4,27 @@ body {
     background-color: black;
     color: white;
 }
+
 .cta {
   color: aquamarine;
+  font-size: 16px;
 }
+
 h1 {
   font-family: verdana;
   font-weight: normal;
   font-size: 50px
   color: white;
-  position: centered
+
 }
 
 h2 {
+  font-size: 21px;
+  color: grey;
+  font-weight: normal;
 
 }
 
 .footer {
-
+      text-align: right;
 }
